@@ -2,8 +2,8 @@
 
 Une application React qui affiche :  
 
-- La météo actuelle et la prévision sur 7 jours pour une ville.  
-- Les actualités récentes en français pour cette ville.  
+- La météo actuelle pour une ville.  
+- Les actualités récentes en français.  
 - Une interface responsive pour desktop et mobile.  
 
 ---
